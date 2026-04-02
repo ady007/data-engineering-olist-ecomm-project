@@ -1,0 +1,45 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "ady-olist-ecomm"
+		},
+		"ADLSforCSV_accountKey": {
+			"value": ""
+		},
+		"ADLSforSQLLinkedService_accountKey": {
+			"value": ""
+		},
+		"filessSQLDB_password": {
+			"value": ""
+		},
+		"ADLSforCSV_properties_typeProperties_url": {
+			"value": "https://adyolistdatastorage.dfs.core.windows.net/"
+		},
+		"ADLSforSQLLinkedService_properties_typeProperties_url": {
+			"value": "https://adyolistdatastorage.dfs.core.windows.net/"
+		},
+		"JsonForGithubForLoop_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com/ady007/"
+		},
+		"filessSQLDB_properties_typeProperties_server": {
+			"value": "4nnyzb.h.filess.io"
+		},
+		"filessSQLDB_properties_typeProperties_database": {
+			"value": "olist_project_woodenarm"
+		},
+		"filessSQLDB_properties_typeProperties_username": {
+			"value": "olist_project_woodenarm"
+		},
+		"httpGithubLinkedService_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com/ady007/"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
