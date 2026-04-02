@@ -1,0 +1,18 @@
+{
+	"name": "filessSQLDB",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "MySql",
+		"typeProperties": {
+			"server": "4nnyzb.h.filess.io",
+			"port": "61032",
+			"database": "olist_project_woodenarm",
+			"username": "olist_project_woodenarm",
+			"sslMode": 1,
+			"useSystemTrustStore": 0,
+			"driverVersion": "v2",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDNEMDg3NkM2LTE3NjYtNEU1MC1CQTBELTUzNjBFRjY1MDM2OF81ZTY3NTBkYy03MzY4LTRjYTEtODk5OC0xZTg0YjE5MGRjNmUiDQp9"
+		}
+	}
+}

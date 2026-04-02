@@ -1,0 +1,19 @@
+{
+	"name": "JsonFromGithub",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "JsonForGithubForLoop",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Json",
+		"typeProperties": {
+			"location": {
+				"type": "HttpServerLocation",
+				"relativeUrl": "data-engineering-olist-ecomm-project/refs/heads/main/data/ForEachInput.json"
+			}
+		},
+		"schema": {}
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}

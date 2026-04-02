@@ -1,0 +1,9 @@
+{
+	"name": "ady-olist-ecomm",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2df395d6-8f22-41d8-8f37-bd4ea2bcaed2",
+		"tenantId": "53ff154a-8fa3-4201-8ad9-0534e4ddee10"
+	}
+}
