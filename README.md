@@ -297,4 +297,4 @@ databricks secrets put --scope adls-scope --key directory-id
 Data Engineer | Azure | PySpark | SQL | Python
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/abhishekdyadav/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/abhishekdyadav)
